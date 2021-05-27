@@ -1,5 +1,7 @@
 ﻿using System;
-
+using System.Collections;
+using System.Collections.Generic;
+using System.IO;
 
 namespace ConsoleApp1
 {
@@ -74,19 +76,88 @@ namespace ConsoleApp1
 
              */
             //Working with Dates
-            Dates();
-        }
+            //    Program PS = new Program();
+            //    PS.Dates();
+            //Class
+            //  AnotherClass AC = new AnotherClass();
+            //  AC.make = "Hello";
+            //Console.WriteLine("{0}", AC.make);
+            //Console.WriteLine( AC.val());
 
-        public static void Dates()
+            //  AnotherClass.val();
+
+
+            //Working with Collection
+            // Collections();
+
+            //LINQ
+            //  LINQ();
+
+            //Handling Exception
+          //  HandleExpection();
+
+
+
+        }
+        public static void HandleExpection()
+        {
+            try
+            {
+                string content = File.ReadAllText(@"C:\Text.txt");
+                Console.WriteLine(content);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+        }
+        public static void LINQ()
+        {
+
+            //LINQ QUERY
+            /*
+           var value = from classname in objectname
+                       classname.property =="value"
+                        select classname;
+            */
+            //LINQ  METHOD
+            /*
+            var value = objectname.Where
+                (p => type == "Value");
+            */
+
+           }      
+            public static void Collections()
+        {
+            /*
+            ArrayList a = new ArrayList();
+            a.Add("Hello");
+            a.Add("World");
+            foreach (var item in a)
+            {
+                Console.WriteLine(item);
+
+            }
+            */
+            //List
+            List<int> myList = new List<int>();
+
+            //Dictonary
+            Dictionary<int, string> dt = new Dictionary<int, string>();
+            dt.Add(2, "Hello");
+             dt.Add(1,"World");
+
+            Console.WriteLine(dt[2]); // 2 is the key
+        
+        }
+        public void Dates()
         {
             DateTime myValue = DateTime.Now;
             // Console.WriteLine(myValue.ToString());
             //  Console.WriteLine(myValue.ToShortDateString());
             // Console.WriteLine(myValue.AddDays(1).ToString());
-            Console.WriteLine(myValue.DayOfYear.ToString());
-
-
-        }
+            //Console.WriteLine(myValue.DayOfYear.ToString());
+          }
         public static string Q1(string x)
         {
             Console.WriteLine("In Q1");
@@ -97,9 +168,19 @@ namespace ConsoleApp1
     }
     class AnotherClass
     {
-        public static void Q2()
+      //  public string make { get; set; }
+        private string myVar;
+
+        public string make
         {
-            Console.WriteLine("In Q2");
+            get { return myVar; }
+            set { myVar = value; }
+        }
+
+        public  int val ()
+        {
+            Console.WriteLine(myVar + "::" );
+            return 100;
 
         }
 
