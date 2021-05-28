@@ -1,0 +1,13 @@
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\bin\Debug\netcoreapp3.1\Insem1.exe
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\bin\Debug\netcoreapp3.1\Insem1.deps.json
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\bin\Debug\netcoreapp3.1\Insem1.runtimeconfig.json
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\bin\Debug\netcoreapp3.1\Insem1.runtimeconfig.dev.json
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\bin\Debug\netcoreapp3.1\Insem1.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\bin\Debug\netcoreapp3.1\Insem1.pdb
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\obj\Debug\netcoreapp3.1\Insem1.csprojAssemblyReference.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\obj\Debug\netcoreapp3.1\Insem1.AssemblyInfoInputs.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\obj\Debug\netcoreapp3.1\Insem1.AssemblyInfo.cs
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\obj\Debug\netcoreapp3.1\Insem1.csproj.CoreCompileInputs.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\obj\Debug\netcoreapp3.1\Insem1.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\obj\Debug\netcoreapp3.1\Insem1.pdb
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Insem1\obj\Debug\netcoreapp3.1\Insem1.genruntimeconfig.cache
