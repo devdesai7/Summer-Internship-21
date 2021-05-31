@@ -139,9 +139,9 @@ namespace Insem1
 
     }
 
-    class Wheat5kgBag : shoppingCart
+    class Wheat5kgBag  : shoppingCart
     {
-        public Wheat5kgBag() : base(150, 5, 50) { }
+        public Wheat5kgBag() : base(150, 5, 50){ }
     }
 
     class RefinedOil5kg : shoppingCart
