@@ -13,7 +13,6 @@ namespace LINQ_Practice
             // ParitionOpr();
             //Sequence();
    
-
         }
    
         static void Sequence()

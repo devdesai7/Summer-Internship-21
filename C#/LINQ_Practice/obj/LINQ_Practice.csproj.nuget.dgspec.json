@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\C#\\ConsoleApp1\\LINQ_Practice\\LINQ_Practice.csproj": {}
+    "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\C#\\LINQ_Practice\\LINQ_Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\C#\\ConsoleApp1\\LINQ_Practice\\LINQ_Practice.csproj": {
+    "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\C#\\LINQ_Practice\\LINQ_Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\C#\\ConsoleApp1\\LINQ_Practice\\LINQ_Practice.csproj",
+        "projectUniqueName": "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\C#\\LINQ_Practice\\LINQ_Practice.csproj",
         "projectName": "LINQ_Practice",
-        "projectPath": "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\C#\\ConsoleApp1\\LINQ_Practice\\LINQ_Practice.csproj",
+        "projectPath": "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\C#\\LINQ_Practice\\LINQ_Practice.csproj",
         "packagesPath": "C:\\Users\\dev23\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\C#\\ConsoleApp1\\LINQ_Practice\\obj\\",
+        "outputPath": "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\C#\\LINQ_Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev23\\AppData\\Roaming\\NuGet\\NuGet.Config",
