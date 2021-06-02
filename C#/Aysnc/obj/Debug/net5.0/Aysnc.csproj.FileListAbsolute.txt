@@ -1,0 +1,17 @@
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\bin\Debug\net5.0\Aysnc.exe
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\bin\Debug\net5.0\Aysnc.deps.json
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\bin\Debug\net5.0\Aysnc.runtimeconfig.json
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\bin\Debug\net5.0\Aysnc.runtimeconfig.dev.json
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\bin\Debug\net5.0\Aysnc.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\bin\Debug\net5.0\ref\Aysnc.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\bin\Debug\net5.0\Aysnc.pdb
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\obj\Debug\net5.0\Aysnc.csprojAssemblyReference.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\obj\Debug\net5.0\Aysnc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\obj\Debug\net5.0\Aysnc.AssemblyInfoInputs.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\obj\Debug\net5.0\Aysnc.AssemblyInfo.cs
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\obj\Debug\net5.0\Aysnc.csproj.CoreCompileInputs.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\obj\Debug\net5.0\Aysnc.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\obj\Debug\net5.0\ref\Aysnc.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\obj\Debug\net5.0\Aysnc.pdb
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\obj\Debug\net5.0\Aysnc.genruntimeconfig.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\Aysnc\bin\Debug\net5.0\TextFile1.txt
