@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insem1", "..\Insem1\Insem1.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insem2", "..\Insem2\Insem2.csproj", "{2914DC56-FD78-42B6-921A-71A78D3EF783}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Practice", "LINQ_Practice\LINQ_Practice.csproj", "{FF3076EF-8840-4401-A6B5-30621AD5DA9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Practice", "..\LINQ_Practice\LINQ_Practice.csproj", "{67345CB9-9B65-4C13-A46E-AF3A701907F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{2914DC56-FD78-42B6-921A-71A78D3EF783}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2914DC56-FD78-42B6-921A-71A78D3EF783}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2914DC56-FD78-42B6-921A-71A78D3EF783}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FF3076EF-8840-4401-A6B5-30621AD5DA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF3076EF-8840-4401-A6B5-30621AD5DA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF3076EF-8840-4401-A6B5-30621AD5DA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF3076EF-8840-4401-A6B5-30621AD5DA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67345CB9-9B65-4C13-A46E-AF3A701907F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67345CB9-9B65-4C13-A46E-AF3A701907F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67345CB9-9B65-4C13-A46E-AF3A701907F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67345CB9-9B65-4C13-A46E-AF3A701907F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
