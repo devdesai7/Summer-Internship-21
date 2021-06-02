@@ -1,0 +1,13 @@
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\bin\Debug\netcoreapp3.1\LINQ_Practice.exe
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\bin\Debug\netcoreapp3.1\LINQ_Practice.deps.json
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\bin\Debug\netcoreapp3.1\LINQ_Practice.runtimeconfig.json
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\bin\Debug\netcoreapp3.1\LINQ_Practice.runtimeconfig.dev.json
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\bin\Debug\netcoreapp3.1\LINQ_Practice.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\bin\Debug\netcoreapp3.1\LINQ_Practice.pdb
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\obj\Debug\netcoreapp3.1\LINQ_Practice.csprojAssemblyReference.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\obj\Debug\netcoreapp3.1\LINQ_Practice.AssemblyInfoInputs.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\obj\Debug\netcoreapp3.1\LINQ_Practice.AssemblyInfo.cs
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\obj\Debug\netcoreapp3.1\LINQ_Practice.csproj.CoreCompileInputs.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\obj\Debug\netcoreapp3.1\LINQ_Practice.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\obj\Debug\netcoreapp3.1\LINQ_Practice.pdb
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\C#\ConsoleApp1\LINQ_Practice\obj\Debug\netcoreapp3.1\LINQ_Practice.genruntimeconfig.cache
