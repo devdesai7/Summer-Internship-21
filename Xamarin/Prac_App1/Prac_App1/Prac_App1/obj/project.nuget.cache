@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Tk+AFn01b/YyxDZBhmYYWNTWS1EAXRINYVR24sSOkL+ubObRPw91hVeG7/1qG1I2cp7U4mC6bxihoopHLKIgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev23\\Documents\\Projects\\Learn\\Summer Intership\\Xamarin\\Prac_App1\\Prac_App1\\Prac_App1\\Prac_App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev23\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dev23\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dev23\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

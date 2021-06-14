@@ -1,0 +1,15 @@
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\bin\Debug\netstandard2.0\Prac_App1.deps.json
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\bin\Debug\netstandard2.0\Prac_App1.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\bin\Debug\netstandard2.0\ref\Prac_App1.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\bin\Debug\netstandard2.0\Prac_App1.pdb
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\Prac_App1.csprojAssemblyReference.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\Prac_App1.AssemblyInfoInputs.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\Prac_App1.AssemblyInfo.cs
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\Prac_App1.csproj.CoreCompileInputs.cache
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\Prac_App1.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\ref\Prac_App1.dll
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\Prac_App1.pdb
+C:\Users\dev23\Documents\Projects\Learn\Summer Intership\Xamarin\Prac_App1\Prac_App1\Prac_App1\obj\Debug\netstandard2.0\Page1.xaml.g.cs
