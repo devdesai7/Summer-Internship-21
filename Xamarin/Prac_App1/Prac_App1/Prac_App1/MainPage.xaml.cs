@@ -14,19 +14,7 @@ namespace Prac_App1
         {
             InitializeComponent();
 
-            Button button = new Button
-            {
-                Text = "Navigate!",
-                HorizontalOptions = LayoutOptions.Center,
-                VerticalOptions = LayoutOptions.Center
-            };
-
-            button.Clicked += async (sender, args) =>
-            {
-                await Navigation.PushAsync(new Page1());
-            };
-
-            Content = button;
+          
         }
     }
 }

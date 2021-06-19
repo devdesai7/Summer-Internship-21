@@ -23,7 +23,7 @@
         <Editor Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Placeholder="Enter Here"/>
 
         <Button  Margin="5" Grid.Row="2" Grid.Column="0" Text="Save" BackgroundColor="Green"/>
-        <Button  Margin="5" Grid.Row="2" Grid.Column="1" Text="Earse" BackgroundColor="Red"/>
+        <Button  Margin="5" Grid.Row="2" Grid.Column="1" Text="Earse" BackgroundColor="Orange"/>
 
         <Label Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Text="Display Text !!"/>
 
