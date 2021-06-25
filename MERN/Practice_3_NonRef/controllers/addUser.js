@@ -1,8 +1,9 @@
 const User = require("../models/user");
 
 exports.getUser=(req,res,next)=>{
-    
-res.render('enterData');
+    const isLogged = req.get('Cookie')
+.split(';')[0].trim().split('=')[1] ;
+res.render('enterData',{isLoggedin:isLogged});
 };
 
 exports.addUser = (req,res,next)=>{
@@ -13,6 +14,7 @@ const email = req.body.email;
 const user = new User(name,email);
 user.save()
 .then(result=>{
+
     console.log("User Entered");
     res.redirect('Message');
 })
@@ -36,3 +38,17 @@ exports.showData = (req,res,next)=>{
     });
 
 };
+
+
+exports.login= (req,res,next) =>{
+res.render('log');
+};
+exports.loginbutton= (req,res,next) =>{
+    //Cookie
+    //res.setHeader('Set-Cookie','loggedIn=true');
+    //Session
+    req.session.isLoggedin =true;
+    
+    res.redirect('addData');
+    };
+    

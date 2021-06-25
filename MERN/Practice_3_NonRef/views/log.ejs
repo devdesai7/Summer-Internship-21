@@ -7,24 +7,19 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="/addData" method="POST">
+
+    LOGIN
+    <form action="/login" method="POST">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" >
 
         <br>
-
         <label for="email">Email</label>
         <input type="text" name="email" id="email" >
  
-        <button class="btn" type="submit">submit</button>
-           <br><br>
+        <button class="btn" type="submit">LOG IN </button>
 
-           <% if(isLoggedin)  {%>
-            <p>Authenticated</p>  
-        <% }%>
-        </form>
-
-
+    </form>
 
 </body>
 </html>
