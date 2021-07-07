@@ -4,6 +4,8 @@ const express = require('express');
 const mongoConnect = require('./util/database').mongoConnect;
 
 const controllers = require('./controllers/addUser');
+const controllers1 = require('./controllers/Login');
+
 const session = require('express-session');
 const app = express();
 
@@ -14,6 +16,11 @@ app.set('view engine', 'ejs');
 //Both Below are alternative for above urlencoded 2nd one is for urlencoded and 1st one is for json 
 //app.use(express.json()); //Used to parse JSON bodies
 app.use(express.urlencoded()); //Parse URL-encoded bodies
+app.use(session({secret:'my secret',resave:false, saveUninitialized:false}));
+
+
+app.get('/signup',controllers1.getSignUp);
+app.post('/signup',controllers1.postSignUp);
 
 
 app.get('/Login',controllers.login);

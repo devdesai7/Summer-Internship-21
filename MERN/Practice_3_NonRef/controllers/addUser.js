@@ -1,3 +1,4 @@
+const session = require("express-session");
 const User = require("../models/user");
 
 exports.getUser=(req,res,next)=>{
@@ -11,7 +12,7 @@ exports.addUser = (req,res,next)=>{
 const name = req.body.name;
 const email = req.body.email;
 
-const user = new User(name,email);
+const user = new User(name,email,pass);
 user.save()
 .then(result=>{
 
@@ -26,7 +27,7 @@ console.log(err);
 
 
 exports.showData = (req,res,next)=>{
-
+//req.session.isLoggedin
     User.fetchAll()
     .then(products => {
       res.render('Message', {
@@ -48,6 +49,7 @@ exports.loginbutton= (req,res,next) =>{
     //res.setHeader('Set-Cookie','loggedIn=true');
     //Session
     req.session.isLoggedin =true;
+    req.session.save();
     
     res.redirect('addData');
     };
